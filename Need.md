@@ -1,0 +1,36 @@
+# Need
+
+- 实现十进制、二进制、八进制、十六进制的转换
+- go 内存分配和垃圾回收机制
+- go 内存泄漏
+- go 匿名函数
+- go 锁的实现原理
+- go defer
+- painc 和 recover
+- string ——字符串的修改等
+- go Context
+- Go TCP通信的搭建
+- Go 占位符
+- GRPC 的知识点和面试
+- GoFrame 框架
+- Go-Zero 框架
+- Gin 框架
+- GORM 框架
+- GO-Micro 框架
+- go tool pprof
+- go tool trace
+- go tool GODEBUG 看调度跟踪
+- go tool GODEBUG 看 GC
+- 控制goroutine 数量
+- 协程调度 go专家编程
+- go 定时器
+- go bufio包
+- go flag 包
+- go fmt包
+- go sort包
+- go init函数
+- go strconv包
+- go strings包
+- go time包
+- go 接口
+- go GMP模型
